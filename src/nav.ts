@@ -29,6 +29,10 @@ export const TRANSLATIONS: Translation[] = [
     lang: "Simplified Chinese",
     url: "https://github.com/Web3-Club/solidity-by-example_Chinese",
   },
+  {
+    lang: "Traditional Chinese",
+    url: "https://github.com/denchance/Solidity-by-example_Traditional_Chinese",
+  },
 ]
 
 export const SOL_ROUTES: Route[] = [
